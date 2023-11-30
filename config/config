@@ -1,0 +1,20 @@
+# webhook验证，grafana配置验证
+username = "dddsdssd"
+password = "eeeeee"
+
+# WeChat告警接收人,多个接受人使用 | 分隔
+users = "rereerer|rrre"
+
+# 告警面板地址(这个地址是在告警输入面板时地址的前缀地址)
+panel = "http://yyyyy.com/"
+
+
+# wechat 接口参数
+corPid = "wdsdeeeee"     
+appSecret = "aeCdseeefsdfdsdsfdsf"
+weChatMsgUrl = "https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token="
+weChatTokenIrl = "https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid="
+
+
+# 飞书
+feiShuApiUrl = "https://open.feishu.cn/open-apis/bot/v2/hook/popiioiuiiuidsee"
